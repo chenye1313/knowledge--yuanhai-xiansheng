@@ -16,6 +16,7 @@ Read this file first before choosing a more specific knowledge file.
 - `QingGan.md`: 感情、婚姻、对象、恋爱、桃花、婚期
 - `JianKang.md`: 健康、身体、疾病、养生、五行偏枯
 - `LiuQin.md`: 六亲、父母、兄弟、姐妹、子女、亲人
+- `HeHuo.md`: 合伙、入股、创业合作、共同做生意、股权、分红、退出机制、合作风险
 - `HeHun.md`: 合婚、合盘、配对、两人合不合、伴侣
 - `ShenSha.md`: 神煞、贵人、桃花、凶煞、辅助
 - `JinRi.md`: 今天、今日、今日运势、今日开运、宜忌
@@ -26,5 +27,7 @@ Read this file first before choosing a more specific knowledge file.
 
 - Read this guide first, then call the most specific operation for the user's topic.
 - The core BaZi charting procedure lives in the main prompt M01-M08. Knowledge files are for analysis and lookup after charting.
+- Business partnership questions must use HeHuo.md, not HeHun.md. HeHun.md is only for relationship or marriage compatibility.
+- Web search is only for calendar facts such as lunar-to-solar conversion, day pillar, solar terms, annual stems/branches, and today's stems/branches. Do not use external astrology articles as analysis sources.
 - Do not guess file names, paths, or alternate operations. Use only the operations listed in the Schema.
 - Use file contents as grounding, but do not mention file names, GitHub paths, or tool calls in final answers unless the user explicitly asks for deployment details.

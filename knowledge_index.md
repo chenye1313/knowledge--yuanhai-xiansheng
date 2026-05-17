@@ -14,6 +14,7 @@ Use this guide to choose the right file before reading a specific document.
 - `QingGan.md` -> 感情、婚姻、对象、恋爱、桃花、婚期
 - `JianKang.md` -> 健康、身体、疾病、养生、五行偏枯
 - `LiuQin.md` -> 六亲、父母、兄弟、姐妹、子女、亲人
+- `HeHuo.md` -> 合伙、入股、创业合作、共同做生意、股权、分红、退出机制、合作风险
 - `HeHun.md` -> 合婚、合盘、配对、两人合不合、伴侣
 - `ShenSha.md` -> 神煞、贵人、桃花、凶煞、辅助
 - `JinRi.md` -> 今天、今日、今日运势、今日开运、宜忌
@@ -33,6 +34,7 @@ Use this guide to choose the right file before reading a specific document.
 - `readQingGan` -> `QingGan.md`
 - `readJianKang` -> `JianKang.md`
 - `readLiuQin` -> `LiuQin.md`
+- `readHeHuo` -> `HeHuo.md`
 - `readHeHun` -> `HeHun.md`
 - `readShenSha` -> `ShenSha.md`
 - `readJinRi` -> `JinRi.md`

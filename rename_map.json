@@ -70,6 +70,13 @@
     "copied": true
   },
   {
+    "target": "HeHuo.md",
+    "operation_id": "readHeHuo",
+    "use_existing_file": false,
+    "source": "HeHuo.md",
+    "copied": true
+  },
+  {
     "target": "HeHun.md",
     "operation_id": "readHeHun",
     "use_existing_file": false,
